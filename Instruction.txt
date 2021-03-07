@@ -1,0 +1,14 @@
+* Please use Matlab R2019b and later versions for the implementation
+
+* The performance matrix should be pre-processed and inserted in the form of Matrix P2 (normalized) in the paper (One column for each decision-maker)
+
+* The matrix can be inserted from an excel file or directly in the Matlab file
+
+* You may use any form of normalization based on your preferences 
+
+* The code allows you to select one of the proposed framework versions based on the specific application, EABM, MABM, and SABM. 
+Please refer to the paper for the details of these variations:
+
+Rabiee, M., Aslani, B., & Rezaei, J. (2021). A decision support system for detecting and handling biased decision-makers in multi criteria group decision-making problems.
+Expert Systems with Applications, 171, 114597.   
+https://doi.org/10.1016/j.eswa.2021.114597
