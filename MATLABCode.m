@@ -477,6 +477,7 @@ fprintf('********************************\n');
 end
 
 if choice==2
+fprintf('You selected the MABM version\n');  
 fprintf('Results for MABM Version \n');
 fprintf('********************************\n');
 fprintf('*Elimination information*\n');
